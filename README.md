@@ -55,26 +55,4 @@ If you find this tool useful and would like to support its development, consider
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Disclaimer
-
-This tool is intended for educational and authorized penetration testing purposes only. The author is not responsible for any misuse or damage caused by this program.
-
-<h1 align="center">Pegasus-Xploit</h4>
-
-
-<h4 align="center">Auto Payload Generator & Exploiter</h4>
-
-<p align="center"><a href="https://imgbb.com/"><img src="https://i.ibb.co/HxCrkbG/Screenshot-from-2019-12-14-15-11-04.png" alt="Screenshot-from-2019-12-14-15-11-04" border="0"></a><br /><br />
-</p>
-Pegasus-Xploit is simply a shell script that helps you to generate metasploit payloads and starts the meterpreter handler quickly. At times, security researchers have to generate payloads and listen to the connection through handler constantly, Pegasus-Xploit not only allows you to quickly generate payloads but it also has an option to start the handler automatically. 
-
-### Prerequisite
-You should have a <b>linux</b> based system with <a href="https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers#installing-metasploit-on-linux--mac-os-x">metasploit-framework</a> installed. 
-
-### Gallery
-<a href="https://ibb.co/L0jFdSY"><img src="https://i.ibb.co/NFDv2xt/Screenshot-from-2019-12-23-20-29-59.png" alt="Screenshot-from-2019-12-23-20-29-59" border="0"></a><br /><br />
-
-### Upcoming Updates
-Auxiliary scanners are on the way :) 
-
 ##### Note: This script is made for educational purposes and to help security researchers. Any actions or activities performed using this script is solely your responsibility.
